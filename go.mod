@@ -1,4 +1,4 @@
-module main
+module github.com/PhilipSolo1/DankDoodleJump
 
 go 1.21.0
 
