@@ -12,7 +12,7 @@ import (
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
-	resourses "github.com/PhilipSolo1/DankDoodleJump/assets"
+	"github.com/hajimehoshi/ebiten/v2/examples/resources/images"
 )
 
 const (
